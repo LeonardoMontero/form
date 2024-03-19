@@ -1,0 +1,17 @@
+.container{
+    text-align: center;
+    background-color: rgb(140, 164, 242);
+    max-width: 300px;
+    margin: 50px auto;
+    border-radius: 20%;
+    padding-bottom: 10px;
+    padding-top: 1px;
+}
+
+h2{
+    font-size: 50px;
+}
+
+label{
+    display: block;
+}
